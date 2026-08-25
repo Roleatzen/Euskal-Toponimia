@@ -1,0 +1,87 @@
+[
+  {
+    "id": "F01_DI_GI_TO_T",
+    "name": "di/gi > t en composición",
+    "kind": "COMPOSICION",
+    "priority": 10,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ],
+    "condition": "final del primer miembro = di/gi",
+    "replacement": "t",
+    "note": "Regla conservadora de composición; no se aplica a sufijos terminales."
+  },
+  {
+    "id": "F03_FINAL_VOWEL_TO_A",
+    "name": "e/o/u > a en primer miembro",
+    "kind": "COMPOSICION",
+    "priority": 20,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ],
+    "condition": "primer miembro termina en e, o o u",
+    "replacement": "a",
+    "note": "Se bloquea ante -aga y -eta."
+  },
+  {
+    "id": "F04_FINAL_N_TO_R",
+    "name": "n > r en composición",
+    "kind": "COMPOSICION",
+    "priority": 30,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ],
+    "condition": "primer miembro termina en n",
+    "replacement": "r",
+    "note": "Aplicación condicionada a composición."
+  },
+  {
+    "id": "F05_R_TO_L",
+    "name": "r final > l en ciertos compuestos",
+    "kind": "COMPOSICION",
+    "priority": 40,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ],
+    "condition": "primer miembro termina en ra/re/ri",
+    "replacement": "l",
+    "note": "Se modela de forma conservadora; no es una regla universal."
+  },
+  {
+    "id": "H01_INITIAL_H_LOSS_OPTIONAL",
+    "name": "pérdida opcional de h inicial",
+    "kind": "HISTORICA",
+    "priority": 100,
+    "modes": [
+      "historico",
+      "proto"
+    ],
+    "condition": "h inicial",
+    "replacement": "Ø",
+    "note": "Transformación opcional experimental."
+  },
+  {
+    "id": "P01_RR_SIMPLIFICATION_EXPERIMENTAL",
+    "name": "simplificación rr > r",
+    "kind": "PROTO",
+    "priority": 110,
+    "modes": [
+      "proto"
+    ],
+    "condition": "rr",
+    "replacement": "r",
+    "note": "Experimental; requiere validación histórica caso por caso."
+  }
+]

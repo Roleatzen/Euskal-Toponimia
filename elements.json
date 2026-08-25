@@ -1,0 +1,2285 @@
+[
+  {
+    "id": "AITZ",
+    "form": "aitz",
+    "meaning": "peña / roca",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "aiz",
+      "haitz"
+    ],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "MENDI",
+    "form": "mendi",
+    "meaning": "monte",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ARAN",
+    "form": "aran",
+    "meaning": "valle",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.8,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "EGI",
+    "form": "egi",
+    "meaning": "ladera / línea elevada",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "GARA",
+    "form": "gara",
+    "meaning": "altura / lugar elevado",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "GOI",
+    "form": "goi",
+    "meaning": "parte alta",
+    "category": "RELIEVE",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.9,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO",
+      "RELIEVE_FINAL"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "BEHE",
+    "form": "behe",
+    "meaning": "parte baja",
+    "category": "RELIEVE",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "be"
+    ],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO",
+      "RELIEVE_FINAL"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "AZPI",
+    "form": "azpi",
+    "meaning": "debajo / parte inferior",
+    "category": "RELIEVE",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.9,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO",
+      "RELIEVE_FINAL"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "GAIN",
+    "form": "gain",
+    "meaning": "cima / encima",
+    "category": "RELIEVE",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "gan"
+    ],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO",
+      "RELIEVE_FINAL"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "BURU",
+    "form": "buru",
+    "meaning": "cabeza / cima / extremo",
+    "category": "RELIEVE",
+    "kind": "FORMANTE",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LOCATIVO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BIZKAR",
+    "form": "bizkar",
+    "meaning": "lomo / cresta",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "MUINO",
+    "form": "muino",
+    "meaning": "colina",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "IBAR",
+    "form": "ibar",
+    "meaning": "valle / vega",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.9,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZABAL",
+    "form": "zabal",
+    "meaning": "ancho / abierto / llano",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD",
+      "RELIEVE"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZELAI",
+    "form": "zelai",
+    "meaning": "pradera / terreno llano",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LANDA",
+    "form": "landa",
+    "meaning": "terreno abierto / campo",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LARRE",
+    "form": "larre",
+    "meaning": "prado / pastizal",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "larra"
+    ],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BASO",
+    "form": "baso",
+    "meaning": "bosque",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "basa"
+    ],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "UR",
+    "form": "ur",
+    "meaning": "agua",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ITURRI",
+    "form": "iturri",
+    "meaning": "fuente",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "ithurri"
+    ],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ERREKA",
+    "form": "erreka",
+    "meaning": "arroyo",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "reka"
+    ],
+    "productivity": 0.95,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "IBAI",
+    "form": "ibai",
+    "meaning": "río",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "bai"
+    ],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LATS",
+    "form": "lats",
+    "meaning": "corriente de agua",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "PUTZU",
+    "form": "putzu",
+    "meaning": "pozo",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "UHARTE",
+    "form": "uharte",
+    "meaning": "lugar entre aguas / isla",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "ugarte"
+    ],
+    "productivity": 0.65,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AINTZIRA",
+    "form": "aintzira",
+    "meaning": "lago / laguna",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ITSAS",
+    "form": "itsas",
+    "meaning": "mar",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "itsaso"
+    ],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LEZE",
+    "form": "leze",
+    "meaning": "cueva / sima",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "leza"
+    ],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HARITZ",
+    "form": "haritz",
+    "meaning": "roble",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "aritz",
+      "aretx"
+    ],
+    "productivity": 0.95,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ARETX",
+    "form": "aretx",
+    "meaning": "roble",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "aritz",
+      "haritz"
+    ],
+    "productivity": 0.8,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "PAGO",
+    "form": "pago",
+    "meaning": "haya",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.9,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ARTE",
+    "form": "arte",
+    "meaning": "encina",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.9,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LIZAR",
+    "form": "lizar",
+    "meaning": "fresno",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "litzar"
+    ],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HALTZ",
+    "form": "haltz",
+    "meaning": "aliso",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "altz"
+    ],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "URKI",
+    "form": "urki",
+    "meaning": "abedul",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "IZEI",
+    "form": "izei",
+    "meaning": "abeto",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "iza"
+    ],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ELORRI",
+    "form": "elorri",
+    "meaning": "espino",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "GOROSTI",
+    "form": "gorosti",
+    "meaning": "acebo",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "INTXAUR",
+    "form": "intxaur",
+    "meaning": "nogal",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.65,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "SAGAR",
+    "form": "sagar",
+    "meaning": "manzano / manzana",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "GAZTAIN",
+    "form": "gaztain",
+    "meaning": "castaño / castaña",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "gaztaina"
+    ],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "SARATS",
+    "form": "sarats",
+    "meaning": "sauce",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.55,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZUME",
+    "form": "zume",
+    "meaning": "mimbre / sauce",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "OTE",
+    "form": "ote",
+    "meaning": "tojo",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "IRAT",
+    "form": "irat",
+    "meaning": "helecho",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "iratze"
+    ],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LER",
+    "form": "ler",
+    "meaning": "pino",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "EZPEL",
+    "form": "ezpel",
+    "meaning": "boj",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "MAKATZ",
+    "form": "makatz",
+    "meaning": "peral silvestre",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AMETZ",
+    "form": "ametz",
+    "meaning": "quejigo / roble",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.55,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AGIN",
+    "form": "agin",
+    "meaning": "tejo",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.55,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ASTIGAR",
+    "form": "astigar",
+    "meaning": "arce",
+    "category": "VEGETACION",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "VEGETACION"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "OTSO",
+    "form": "otso",
+    "meaning": "lobo",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "otxo"
+    ],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HARTZ",
+    "form": "hartz",
+    "meaning": "oso",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [
+      "artz"
+    ],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AZERI",
+    "form": "azeri",
+    "meaning": "zorro",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "OREIN",
+    "form": "orein",
+    "meaning": "ciervo",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BASURDE",
+    "form": "basurde",
+    "meaning": "jabalí",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AHUNTZ",
+    "form": "ahuntz",
+    "meaning": "cabra",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ARDI",
+    "form": "ardi",
+    "meaning": "oveja",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BEHI",
+    "form": "behi",
+    "meaning": "vaca",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.3,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZALDI",
+    "form": "zaldi",
+    "meaning": "caballo",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "SUGE",
+    "form": "suge",
+    "meaning": "serpiente",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.3,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ARRANO",
+    "form": "arrano",
+    "meaning": "águila",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "USO",
+    "form": "uso",
+    "meaning": "paloma",
+    "category": "FAUNA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.3,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "FAUNA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ETXE",
+    "form": "etxe",
+    "meaning": "casa",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ELIZA",
+    "form": "eliza",
+    "meaning": "iglesia",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BASERRI",
+    "form": "baserri",
+    "meaning": "caserío",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL"
+    ],
+    "variants": [],
+    "productivity": 0.55,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BORDA",
+    "form": "borda",
+    "meaning": "borda / construcción rural",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.55,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "OLA",
+    "form": "ola",
+    "meaning": "ferrería / cabaña",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ERROTA",
+    "form": "errota",
+    "meaning": "molino",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.55,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "DORRE",
+    "form": "dorre",
+    "meaning": "torre",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "torre"
+    ],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "JAUREGI",
+    "form": "jauregi",
+    "meaning": "palacio / casa señorial",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "GAZTELU",
+    "form": "gaztelu",
+    "meaning": "castillo",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.45,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HERRI",
+    "form": "herri",
+    "meaning": "pueblo / territorio",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HIRI",
+    "form": "hiri",
+    "meaning": "ciudad / villa",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "iri"
+    ],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "URI",
+    "form": "uri",
+    "meaning": "villa / población",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "hiri"
+    ],
+    "productivity": 0.65,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AUZO",
+    "form": "auzo",
+    "meaning": "barrio / vecindad",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.45,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "KORTA",
+    "form": "korta",
+    "meaning": "corral / cuadra",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "SALA",
+    "form": "sala",
+    "meaning": "casa de labranza / cortijo",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "SORO",
+    "form": "soro",
+    "meaning": "heredad / campo cultivado",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "solo"
+    ],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ORTU",
+    "form": "ortu",
+    "meaning": "huerto",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZUBI",
+    "form": "zubi",
+    "meaning": "puente",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.65,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BIDE",
+    "form": "bide",
+    "meaning": "camino",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.8,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "PORTU",
+    "form": "portu",
+    "meaning": "puerto / paso",
+    "category": "ASENTAMIENTO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ASENTAMIENTO",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HANDI",
+    "form": "handi",
+    "meaning": "grande",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "TXIKI",
+    "form": "txiki",
+    "meaning": "pequeño",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "txipi"
+    ],
+    "productivity": 0.55,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZAHAR",
+    "form": "zahar",
+    "meaning": "viejo / antiguo",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "zar"
+    ],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BERRI",
+    "form": "berri",
+    "meaning": "nuevo",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "barri"
+    ],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ZURI",
+    "form": "zuri",
+    "meaning": "blanco",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "GORRI",
+    "form": "gorri",
+    "meaning": "rojo",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.65,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "BELTZ",
+    "form": "beltz",
+    "meaning": "negro",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "bel"
+    ],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "EDER",
+    "form": "eder",
+    "meaning": "hermoso",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "HOTZ",
+    "form": "hotz",
+    "meaning": "frío",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "oz"
+    ],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ONA",
+    "form": "ona",
+    "meaning": "bueno",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "LUZE",
+    "form": "luze",
+    "meaning": "largo",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "SAKON",
+    "form": "sakon",
+    "meaning": "profundo",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "MEHE",
+    "form": "mehe",
+    "meaning": "estrecho / delgado",
+    "category": "CUALIDAD",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.3,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "CUALIDAD"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AURRE",
+    "form": "aurre",
+    "meaning": "delante / frente",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura espacial"
+    ]
+  },
+  {
+    "id": "ATZE",
+    "form": "atze",
+    "meaning": "detrás / parte posterior",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura espacial"
+    ]
+  },
+  {
+    "id": "ONDO",
+    "form": "ondo",
+    "meaning": "junto a / al lado de",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "GIBEL",
+    "form": "gibel",
+    "meaning": "detrás / parte posterior",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "ALDE",
+    "form": "alde",
+    "meaning": "lado / zona",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.7,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura relacional"
+    ]
+  },
+  {
+    "id": "BAZTER",
+    "form": "bazter",
+    "meaning": "rincón / borde / orilla",
+    "category": "ESPACIO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.5,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "ESPACIO",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "AGA",
+    "form": "-aga",
+    "meaning": "formante locativo/colectivo",
+    "category": "TOPONIMICO",
+    "kind": "SUFIJO",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "-ga"
+    ],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "SUFIJO_ABUNDANCIAL"
+    ],
+    "restrictions": [
+      "terminal; bloquea alternancias vocálicas ordinarias; no encadenar con -eta"
+    ]
+  },
+  {
+    "id": "ETA",
+    "form": "-eta",
+    "meaning": "formante locativo/colectivo",
+    "category": "TOPONIMICO",
+    "kind": "SUFIJO",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "-keta"
+    ],
+    "productivity": 1.0,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "SUFIJO_ABUNDANCIAL"
+    ],
+    "restrictions": [
+      "terminal; bloquea alternancias vocálicas ordinarias; no encadenar con -aga"
+    ]
+  },
+  {
+    "id": "DI",
+    "form": "-di",
+    "meaning": "colectivo, especialmente vegetal",
+    "category": "TOPONIMICO",
+    "kind": "SUFIJO",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "-ti"
+    ],
+    "productivity": 0.85,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "SUFIJO_VEGETAL"
+    ],
+    "restrictions": [
+      "preferentemente bases vegetales"
+    ]
+  },
+  {
+    "id": "TI",
+    "form": "-ti",
+    "meaning": "variante de formante colectivo",
+    "category": "TOPONIMICO",
+    "kind": "SUFIJO",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "-di"
+    ],
+    "productivity": 0.45,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "SUFIJO_VEGETAL"
+    ],
+    "restrictions": [
+      "usar como variante condicionada, no libre"
+    ]
+  },
+  {
+    "id": "TEGI",
+    "form": "-tegi",
+    "meaning": "lugar destinado a / lugar de",
+    "category": "TOPONIMICO",
+    "kind": "SUFIJO",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.75,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "SUFIJO_LUGAR"
+    ],
+    "restrictions": [
+      "preferentemente lugar, oficio, actividad o persona"
+    ]
+  },
+  {
+    "id": "KO",
+    "form": "-ko",
+    "meaning": "de / perteneciente a / situado en",
+    "category": "GRAMATICAL",
+    "kind": "SUFIJO",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "-go"
+    ],
+    "productivity": 0.65,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELACIONAL"
+    ],
+    "restrictions": [
+      "morfema gramatical; requiere estructura sintáctica adecuada"
+    ]
+  },
+  {
+    "id": "ERDI",
+    "form": "erdi",
+    "meaning": "medio / mitad",
+    "category": "ESPACIO",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.45,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO",
+      "ESPACIO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "ARTEAN",
+    "form": "artean",
+    "meaning": "entre / en medio de",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.45,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura relacional"
+    ]
+  },
+  {
+    "id": "BARRU",
+    "form": "barru",
+    "meaning": "interior / dentro",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "barne"
+    ],
+    "productivity": 0.55,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "BARNE",
+    "form": "barne",
+    "meaning": "interior",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [
+      "barru"
+    ],
+    "productivity": 0.6,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "preferentemente final"
+    ]
+  },
+  {
+    "id": "KANPO",
+    "form": "kanpo",
+    "meaning": "exterior / fuera",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.4,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura espacial"
+    ]
+  },
+  {
+    "id": "GAINEKO",
+    "form": "gaineko",
+    "meaning": "situado sobre / superior",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura relacional"
+    ]
+  },
+  {
+    "id": "BEHEKO",
+    "form": "beheko",
+    "meaning": "situado debajo / inferior",
+    "category": "ESPACIO",
+    "kind": "FORMANTE",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.35,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "LOCATIVO"
+    ],
+    "restrictions": [
+      "estructura relacional"
+    ]
+  },
+  {
+    "id": "ERREKAONDO",
+    "form": "errekaondo",
+    "meaning": "junto al arroyo",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.2,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": [
+      "entrada fosilizada; no usar como raíz productiva"
+    ]
+  },
+  {
+    "id": "MALDA",
+    "form": "malda",
+    "meaning": "cuesta / pendiente",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.45,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": []
+  },
+  {
+    "id": "MENDATE",
+    "form": "mendate",
+    "meaning": "puerto / paso de montaña",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.3,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": [
+      "entrada lexicalizada; no descomponer automáticamente"
+    ]
+  },
+  {
+    "id": "SORGI",
+    "form": "sorgi",
+    "meaning": "manantial / surgencia",
+    "category": "AGUA",
+    "kind": "LEXEMA",
+    "positions": [
+      "INICIAL",
+      "FINAL"
+    ],
+    "variants": [
+      "sorgin"
+    ],
+    "productivity": 0.25,
+    "antiquity": "ANTIGUA",
+    "combination_tags": [
+      "AGUA",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": [
+      "usar con cautela; polisemia"
+    ]
+  },
+  {
+    "id": "MENDIBEL",
+    "form": "mendibel",
+    "meaning": "ladera sombría / monte oscuro",
+    "category": "RELIEVE",
+    "kind": "LEXEMA",
+    "positions": [
+      "FINAL"
+    ],
+    "variants": [],
+    "productivity": 0.2,
+    "antiquity": "MODERNA",
+    "combination_tags": [
+      "RELIEVE",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "restrictions": [
+      "entrada compuesta/fosilizada; no usar como raíz en generación libre"
+    ]
+  }
+]

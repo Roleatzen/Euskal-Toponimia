@@ -1,0 +1,159 @@
+[
+  {
+    "id": "P01",
+    "name": "relieve + gain",
+    "slots": [
+      "LEXEMA_GEOGRAFICO",
+      "GAIN"
+    ],
+    "meaning_template": "lugar situado en la parte superior o cima de {A}",
+    "weight": 1.0,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "relieve + goi",
+    "slots": [
+      "LEXEMA_GEOGRAFICO",
+      "GOI"
+    ],
+    "meaning_template": "parte alta relacionada con {A}",
+    "weight": 0.65,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "relieve + azpi",
+    "slots": [
+      "LEXEMA_GEOGRAFICO",
+      "AZPI"
+    ],
+    "meaning_template": "lugar situado debajo de {A}",
+    "weight": 0.65,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P04",
+    "name": "elemento + ondo",
+    "slots": [
+      "LEXEMA_GEOGRAFICO",
+      "ONDO"
+    ],
+    "meaning_template": "lugar situado junto a {A}",
+    "weight": 0.85,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P05",
+    "name": "vegetación + aga",
+    "slots": [
+      "VEGETACION",
+      "AGA"
+    ],
+    "meaning_template": "lugar o conjunto relacionado con {A}",
+    "weight": 1.0,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P06",
+    "name": "vegetación + eta",
+    "slots": [
+      "VEGETACION",
+      "ETA"
+    ],
+    "meaning_template": "lugar o conjunto relacionado con {A}",
+    "weight": 1.0,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P07",
+    "name": "vegetación + di",
+    "slots": [
+      "VEGETACION",
+      "DI"
+    ],
+    "meaning_template": "lugar abundante en {A}",
+    "weight": 0.75,
+    "modes": [
+      "documental",
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P08",
+    "name": "lexema + tegi",
+    "slots": [
+      "LEXEMA",
+      "TEGI"
+    ],
+    "meaning_template": "lugar destinado a / relacionado con {A}",
+    "weight": 0.45,
+    "modes": [
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P09",
+    "name": "cualidad + geografía",
+    "slots": [
+      "CUALIDAD",
+      "LEXEMA_GEOGRAFICO"
+    ],
+    "meaning_template": "{A} relacionado con {B}",
+    "weight": 0.55,
+    "modes": [
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  },
+  {
+    "id": "P10",
+    "name": "geografía + cualidad",
+    "slots": [
+      "LEXEMA_GEOGRAFICO",
+      "CUALIDAD"
+    ],
+    "meaning_template": "{A} caracterizado como {B}",
+    "weight": 0.5,
+    "modes": [
+      "vasco",
+      "historico",
+      "proto"
+    ]
+  }
+]
