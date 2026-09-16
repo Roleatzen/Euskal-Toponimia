@@ -121,6 +121,7 @@
     "meaning_template": "lugar destinado a / relacionado con {A}",
     "weight": 0.45,
     "modes": [
+      "documental",
       "vasco",
       "historico",
       "proto"
@@ -136,6 +137,7 @@
     "meaning_template": "{A} relacionado con {B}",
     "weight": 0.55,
     "modes": [
+      "documental",
       "vasco",
       "historico",
       "proto"
@@ -151,6 +153,7 @@
     "meaning_template": "{A} caracterizado como {B}",
     "weight": 0.5,
     "modes": [
+      "documental",
       "vasco",
       "historico",
       "proto"

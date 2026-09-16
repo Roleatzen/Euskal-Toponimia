@@ -67,19 +67,42 @@ function historical(form,mode){
   return{form,applied};
 }
 function generate(mode){
-  const ps=state.patterns.filter(p=>p.modes.includes(mode)&&p.slots.length);
-  if(!ps.length)throw new Error(`No hay patrones válidos para "${mode}".`);
+  const explicit=state.patterns.filter(p=>{
+    const ms=Array.isArray(p.modes)&&p.modes.length
+      ? p.modes : ["documental","vasco","historico","proto"];
+    return Array.isArray(p.slots)&&p.slots.length&&ms.includes(mode);
+  });
+  const ps=explicit.length ? explicit :
+    state.patterns.filter(p=>Array.isArray(p.slots)&&p.slots.length);
+
+  if(!ps.length) throw new Error("patterns.json no contiene patrones utilizables.");
+
   const p=choice(ps,x=>x.weight);
+  if(!p||!Array.isArray(p.slots)||!p.slots.length)
+    throw new Error("El patrón seleccionado no tiene slots válidos.");
+
   for(let attempt=0;attempt<100;attempt++){
-    const c=p.slots.map(s=>element(s,mode));
-    if(c.slice(0,-1).every((x,i)=>compatible(x,c[i+1]))){
-      let form=c[0].form, rules=[];
-      for(let i=1;i<c.length;i++){let j=join(form,c[i]);form=j.form;rules.push(...j.applied)}
-      let h=historical(form,mode); form=h.form; rules.push(...h.applied);
-      let meaning=p.meaning_template;
-      c.forEach((x,i)=>meaning=meaning.replaceAll(`{${String.fromCharCode(65+i)}}`,x.meaning));
-      return{toponym:form[0].toUpperCase()+form.slice(1),meaning,pattern:p.name,components:c,rules,mode};
+    const c=p.slots.map(slot=>element(slot,mode));
+    if(!c.slice(0,-1).every((x,i)=>compatible(x,c[i+1]))) continue;
+
+    let form=c[0].form, applied=[];
+    for(let i=1;i<c.length;i++){
+      const j=join(form,c[i]);
+      form=j.form; applied.push(...j.applied);
     }
+
+    const h=historical(form,mode);
+    form=h.form; applied.push(...h.applied);
+
+    let meaning=p.meaning_template;
+    c.forEach((x,i)=>{
+      meaning=meaning.replaceAll(`{${String.fromCharCode(65+i)}}`,x.meaning);
+    });
+
+    return {
+      toponym:form[0].toUpperCase()+form.slice(1),
+      meaning, pattern:p.name, components:c, rules:applied, mode
+    };
   }
   throw new Error(`No se pudo resolver el patrón "${p.name}".`);
 }
